@@ -1,0 +1,28 @@
+segment_sources:
+  I0860E976:
+    type: origin_type
+    relation: translation
+    language: en
+  IC649C46C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4c23f8442b9b4f5a85a6ac10a71585cf:
+    I0860E976: db3ecb4234bf4d6893900c80ee10dcea
+    IC649C46C: 8f82b329406b4b858a28c52c16c0be9f
+  12ecd9255cea443faddb8ecc0a745e79:
+    I0860E976: e275c75129a3450fa90097a87430c8de
+    IC649C46C: bec29657b8bd428e847c0ae1eac2c10d
+  d09e4ca335324821a3cbf67cbbd254ae:
+    I0860E976: e647b6a04fec4e26aeb7b8decbb00496
+    IC649C46C: df8211c482c94ba792374ac4676c1734
+  8c228b6ebed8499683ec63ccc7659d2d:
+    I0860E976: cebd1570d84e4b36a9166a3de8ab1180
+    IC649C46C: c9e1bbcd62b84d38bf607b5ef4b521e2
+  9b28e1898a6143faa843c115c5f405fb:
+    I0860E976: 7818340a1e4b492b8f01bb01dec31b5e
+    IC649C46C: 9111e26fcdf44f00b7203bd308e43dee
+  54365b261ab04258937df909bd080f1b:
+    I0860E976: 64cf7f6e4b744e8dbd730590f39b7f15
+    IC649C46C: 11da0a1cf11f4f56bfec799db393d77f
